@@ -9,8 +9,8 @@ I've added a github page using Jekyll. C++ is my primary language and I don't kn
 
 Who knows, maybe I'll make a blog myself if I have things worth blogging about related to my github.
 
-I've created a devenv for using Jekyll via docket container and checked in the docker file at 
+I've created a devenv for using Jekyll via docker container. Check out my [Jekyll Devenv Repo][jekyll-devenv] if you'd like to see how I created the container. I am just attaching to it via VSCode, editing, and using the terminal from there to push my changes.
 
-Check out my [Jekyll Devenv Repo][jekyll-devenv] for if you'd like to see how I created the container. I am just attaching to it via VSCode, editing, and using the terminal from there to push my changes.
+Can we do fancy graphics, css, and such with this? I hear you can. Let's see...
 
 [jekyll-devenv]: https://github.com/ChristopherPisz/DevEnvJekyll
