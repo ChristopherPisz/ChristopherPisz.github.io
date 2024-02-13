@@ -2,7 +2,7 @@
 layout: post
 title:  "Added a github Page Using Jekyll"
 date:   2024-02-13 17:46:58 +0000
-categories: update
+categories: jekyll update
 ---
 
 I've added a github page using Jekyll. C++ is my primary language and I don't know much about web development, but I figured it might be handy to create a static page/blog and see if this works, because I'd like to stop using CMS for the community garden I am involved with and I figure the org could host a static page using github for free easy enough.
