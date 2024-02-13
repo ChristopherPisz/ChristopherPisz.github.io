@@ -5,7 +5,7 @@ date:   2024-02-13 13:30:00 -6
 categories: c++ docker youtube update
 ---
 
-I created a docker container for C++ with the Conan Package manager. This makes it easier to colabortate, tutor, etc, and not deal with
+I created a docker container for C++ with the Conan Package manager. This makes it easier to colaborate, tutor, etc, and not deal with
 issues related to environment. You can take a look at my [C++ Devenv Repo][cpp-devenv] if you'd like to see how I created the container.
 
 I also had started a [YouTube playlist][youtube-cpp-pipeline] on streamlining your C++ Pipeline where this was one of the things mentioned. I'm currently working on the next videos for it.
