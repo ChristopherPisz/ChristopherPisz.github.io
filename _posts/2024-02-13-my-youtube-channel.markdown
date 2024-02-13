@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Youtube Channel"
+title:  "YouTube Channel"
 date:   2024-02-13 17:48:58 +0000
 categories: youtube update
 ---
